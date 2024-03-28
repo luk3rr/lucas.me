@@ -1,42 +1,152 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="style.css">
 <html>
-<head>
-  <meta charset="utf-8"/>
-  <title>Lucas '---'</title>
+    <head>
+        <meta name="generator" content="Hugo 0.116.0-DEV">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Lucas '--'</title>
 
-  <link rel="icon" type="image/ico" href="favicon.ico">
-  <meta property="og:image" content="https://avatars.githubusercontent.com/u/47197841"/>
-  <script src="https://kit.fontawesome.com/cab42dffd7.js" crossorigin="anonymous"></script>
+        <meta property="og:site_name" content="Lucas Araújo">
+        <meta property="og:title" content="Sobre">
+        <meta property="og:description" content="Lucas Araújo’s private website, containing articles about computers and programming, mostly focused on Linux.">
 
-</head>
-<body>
-  <div class="container-fluid text-center">
-    <img class="avatar" src="https://avatars3.githubusercontent.com/u/47197841" height="300" width="300">
-    <h1>LUCAS DE OLIVEIRA ARAÚJO</h1>
-    <h2>Programmer &#9749</h2>
-    <h4>araujolucas@dcc.ufmg.br (<a href="https://github.com/luk3rr/lucas.me/blob/main/public-key_lucas.asc" target="_blank"><span class="text-special">My public key!</span></a>)</h4>
-    <p>Level: <span id="age"></span> <br>Skills: Code, Bad jokes<br>Location: Belo Horizonte, Brazil <br> Species: INTJ-A <br>Type: Hacker, Curious </p>
-    <a href="https://homepages.dcc.ufmg.br/~araujolucas/cv/CV-Lucas_de_Oliveira_Araujo.pdf" target="_blank">See my CV</a>
-    <h2>Social Networks</h2>
-    <nav class="d-flex justify-content-center">
-        <a href="https://discordapp.com/users/6867670291219743903" target="_blank"><i class="fab fa-discord fa-3x" aria-hidden="true"></i></a>
-        <a href="https://www.linkedin.com/in/luk3rr" target="_blank"><i class="fab fa-linkedin fa-3x" aria-hidden="true"></i></a>
-        <a href="https://github.com/luk3rr" target="_blank"><i class="fab fa-github fa-3x" aria-hidden="true"></i></a>
-        <a href="https://telegram.me/luk3rr" target="_blank"><i class="fab fa-telegram fa-3x" aria-hidden="true"></i></a>
-        <a href="https://twitter.com/luk3rr" target="_blank"><i class="fab fa-brands fa-twitter fa-3x" aria-hidden="true"></i></a>
-        <a href="https://www.youtube.com/@luk3rr/playlists" target="_blank"><i class="fab fa-brands fa-youtube fa-3x" aria-hidden="true"></i></a>
-        <a href="https://open.spotify.com/user/127fo31zez983lqd9w1s8gf34" target="_blank"><i class="fab fa-spotify fa-3x" aria-hidden="true"></i></a>
-        <a href="https://instagram.com/lucas.isnull/" target="_blank"><i class="fab fa-instagram fa-3x" aria-hidden="true"></i></a>
-    </nav>
-    </div>
-    <script>
-        // Dynamic Age
-        const today = new Date();
-        const birthday = new Date("2001/02/08");
-        const year = today.getFullYear();
-        const myAge = Math.floor(Math.abs(today - birthday) / 1000 / 60 / 60 / 24 / 365);
-        document.getElementById("age").innerHTML = myAge;
-  </script>
-</body>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Lucas Araújo’s private website, containing articles about computers and programming, mostly focused on Linux.">
+        <link rel="canonical" href="https://homepages.dcc.ufmg.br/~araujolucas/">
+        <meta name="author" content="Lucas Araújo">
+        <link rel="icon" type="image/ico" href="favicon.ico">
+        <meta property="og:image" content="https://avatars.githubusercontent.com/u/47197841"/>
+        <script src="https://kit.fontawesome.com/cab42dffd7.js" crossorigin="anonymous"></script>
+
+        <link rel="stylesheet" type="text/css" href="1.min.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <header id="ms_navbar">
+            <img
+                src="https://avatars3.githubusercontent.com/u/47197841"
+                width="100"
+                height="100"
+                alt="profile picture"
+                title="profile picture">
+            <div>
+                <h1>Lucas Araújo</h1>
+                <nav id="ms_desktopnav">
+                    <ul>
+                        <li><a href="/" class="active">Sobre</a></li>
+                        <li><a href="https://homepages.dcc.ufmg.br/~araujolucas/cv/CV-Lucas_de_Oliveira_Araujo.pdf" target="_blank">CV Completo</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div id="ms_burger_open">
+                <label for="ms_burger"><svg viewBox="0 0 100 80" width="24" height="24">
+	                <rect width="100" height="17" rx="8" fill="white"></rect>
+	                <rect y="30" width="100" height="17" rx="8" fill="white"></rect>
+	                <rect y="60" width="100" height="17" rx="8" fill="white"></rect>
+                </svg></label>
+            </div>
+
+            <input type="checkbox" id="ms_burger">
+
+            <nav id="ms_navdrawer">
+                <div id="ms_navdrawer_top">
+                    <div id="ms_navdrawer_search">
+	                    <a href="/">
+                            <img
+                                src="https://avatars3.githubusercontent.com/u/47197841"
+                                width="100"
+                                height="100"
+                                alt="profile picture"
+                                title="profile picture">
+
+	                        <h1>Lucas Araújo</h1></a>
+                    </div>
+                    <div id="ms_burger_close">
+	                    <label for="ms_burger"><svg viewBox="0 0 110 110" width="24" height="24">
+	                        <line x1="10" y1="10" x2="100" y2="100" stroke="#047bc2" stroke-width="20" />
+	                        <line x1="100" y1="10" x2="10" y2="100" stroke="#047bc2" stroke-width="20" />
+	                    </svg></label>
+                    </div>
+                </div>
+
+                <div id="ms_navdrawer_content">
+                    <ul>
+                        <li><a href="https://homepages.dcc.ufmg.br/~araujolucas/" class="active">Sobre</a></li>
+                        <li><a href="https://homepages.dcc.ufmg.br/~araujolucas/cv/CV-Lucas_de_Oliveira_Araujo.pdf" target="_blank">CV Completo</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <main>
+            <div>
+                <h2 class="ms_title">Sobre</h2>
+
+                <div class="Artikel" id="content">
+                    <p>
+                        Eu uso computadores por diversão. Em meu tempo livre, participo da comunidade de software livre e de open-source, e gosto de personalizar meu
+                        <a href="https://en.wikipedia.org/wiki/Arch_Linux" target="_blank">Arch Linux</a>.
+                    </p>
+                    <p>
+                        Tenho interesse em desenvolvimento Back-end, principalmente com Java, Python e C++. Linguagens são só ferramentas, e qualquer bom dev consegue trabalhar com
+                        qualquer uma. Essas três que eu citei são apenas as ferramentas que eu mais gosto de trabalhar.
+                    </p>
+                    <p>
+                        Atualmente, estou concluindo o meu bacharelado em <a href="https://dcc.ufmg.br/bacharelado-em-sistemas-de-informacao/" target="_blank">Sistemas de Informação</a>
+                        no
+                        <a href="https://dcc.ufmg.br/" target="_blank">Departamento de Ciência da Computação</a>
+                        da
+                        <a href="https://pt.wikipedia.org/wiki/Universidade_Federal_de_Minas_Gerais" target="_blank">UFMG</a>.
+                        Vivo em Belo Horizonte, MG, Brasil, uma boa cidade se você gosta de passar a maior parte dos dias do ano com temperaturas acima de 30ºC. Tenho
+                        <span id="age"></span>
+                        anos e, se você acredita nessas baboseiras, meu
+                        <a href="https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator" target="_blank">MBTI</a>
+                        é INTJ-A. Minhas principais skills são escrever código e contar piadas ruins.
+
+                    </p>
+                    <h2 id="projects">Projetos</h2>
+                    <p>
+                        Sempre subo alguns códigos no meu <a href="https://github.com/luk3rr" target="_blank">Github</a>.
+                        A maioria dos meus projetos são frutos de trabalhos práticos da universidade e são em C++,
+                        mas também tenho alguns programas em Java, Python e Bash.
+                    </p>
+                    <h2 id="contact">Contato</h2>
+                    <p>
+                        Meu e-mail de contato é <a href="mailto:araujolucas@dcc.ufmg.br">araujolucas@dcc.ufmg.br</a> e, se você for louco, pode criptografar a sua mensagem com a minha
+                        <a href="https://github.com/luk3rr/lucas.me/blob/main/public-key_lucas.asc" target="_blank">chave pública!</a>.
+
+                        <div class="container-fluid text-center">
+                            <nav class="d-flex justify-content-center">
+                                <a href="https://discordapp.com/users/6867670291219743903" target="_blank"><i class="fab fa-discord fa-3x" aria-hidden="true"></i></a>
+                                <a href="https://www.linkedin.com/in/luk3rr" target="_blank"><i class="fab fa-linkedin fa-3x" aria-hidden="true"></i></a>
+                                <a href="https://github.com/luk3rr" target="_blank"><i class="fab fa-github fa-3x" aria-hidden="true"></i></a>
+                                <a href="https://telegram.me/luk3rr" target="_blank"><i class="fab fa-telegram fa-3x" aria-hidden="true"></i></a>
+                                <a href="https://twitter.com/luk3rr" target="_blank"><i class="fab fa-brands fa-twitter fa-3x" aria-hidden="true"></i></a>
+                                <a href="https://www.youtube.com/@luk3rr/playlists" target="_blank"><i class="fab fa-brands fa-youtube fa-3x" aria-hidden="true"></i></a>
+                                <a href="https://open.spotify.com/user/127fo31zez983lqd9w1s8gf34" target="_blank"><i class="fab fa-spotify fa-3x" aria-hidden="true"></i></a>
+                                <a href="https://instagram.com/luscao.uai/" target="_blank"><i class="fab fa-instagram fa-3x" aria-hidden="true"></i></a>
+                            </nav>
+                        </div>
+                    </p>
+                    <div>
+                        <script>
+                         document.addEventListener("DOMContentLoaded", function() {
+                             // Dynamic Age
+                             const today = new Date();
+                             const birthday = new Date("2001/02/08");
+                             const year = today.getFullYear();
+                             const myAge = Math.floor(Math.abs(today - birthday) / 1000 / 60 / 60 / 24 / 365);
+                             document.getElementById("age").innerHTML = myAge;
+                             document.getElementById("currentYear").innerHTML = year;
+                         });
+                        </script>
+                        <div>
+                            <div id="ms_footer">
+                                © <span id="currentYear"></span> Lucas Araújo
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </body>
 </html>
