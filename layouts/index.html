@@ -1,0 +1,25 @@
+{{ define "main" }}
+    <div>
+        <h2 class="ms_title">{{ .Title }}</h2>
+
+        <div class="Artikel" id="content">
+            {{ .Content }}
+
+            <div class="container-fluid text-center">
+                <nav class="d-flex justify-content-center" aria-label="Redes sociais">
+                    <a href="https://discordapp.com/users/6867670291219743903" target="_blank" aria-label="Discord"><i class="fab fa-discord fa-3x" aria-hidden="true"></i></a>
+                    <a href="https://www.linkedin.com/in/luk3rr" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin fa-3x" aria-hidden="true"></i></a>
+                    <a href="https://github.com/luk3rr" target="_blank" aria-label="GitHub"><i class="fab fa-github fa-3x" aria-hidden="true"></i></a>
+                    <a href="https://twitter.com/luk3rr" target="_blank" aria-label="Twitter"><i class="fab fa-brands fa-twitter fa-3x" aria-hidden="true"></i></a>
+                    <a href="https://www.youtube.com/@luk3rr/playlists" target="_blank" aria-label="YouTube"><i class="fab fa-brands fa-youtube fa-3x" aria-hidden="true"></i></a>
+                    <a href="https://open.spotify.com/user/127fo31zez983lqd9w1s8gf34" target="_blank" aria-label="Spotify"><i class="fab fa-spotify fa-3x" aria-hidden="true"></i></a>
+                    <a href="https://instagram.com/uai.luscao/" target="_blank" aria-label="Instagram"><i class="fab fa-instagram fa-3x" aria-hidden="true"></i></a>
+                </nav>
+            </div>
+
+            <div id="ms_footer">
+                © <span id="currentYear"></span> Lucas Araújo
+            </div>
+        </div>
+    </div>
+{{ end }}

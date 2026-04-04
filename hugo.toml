@@ -1,0 +1,11 @@
+baseURL = "https://homepages.dcc.ufmg.br/~araujolucas/"
+languageCode = "pt-BR"
+title = "Lucas Araújo"
+
+[params]
+  description = "Lucas Araújo's private website, containing articles about computers and programming, mostly focused on Linux."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,4 @@
+<details>
+  <summary>{{ .Get "summary" | default "comentário" }}</summary>
+  <div class="details-content">{{ .Inner | markdownify }}</div>
+</details>

@@ -90,6 +90,52 @@ body, td, th {
 	color: #000;
 }
 
+.Artikel p {
+    text-align: justify;
+}
+
+.Artikel h3 {
+    font-size: 1em;
+    font-weight: normal;
+    margin: 0.4em 0 0.1em 0;
+    color: #000;
+}
+
+details summary {
+    cursor: pointer;
+    color: #047bc2;
+    font-size: 0.85em;
+}
+
+.details-content {
+    margin: 0.25em 0 0.5em 1em;
+    padding-left: 0.75em;
+    border-left: 2px solid #dee2e6;
+    font-size: 0.95em;
+}
+
+.ms_subtitle {
+    color: #555;
+    font-style: italic;
+    margin-bottom: 0.5em;
+}
+
+figure {
+    display: table;
+    margin: 1em auto;
+}
+
+figure img {
+    display: block;
+}
+
+figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    text-align: center;
+    font-size: 0.85em;
+}
+
 h1,
 h2,
 h3,

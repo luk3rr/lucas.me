@@ -1,0 +1,13 @@
+{{ define "main" }}
+    <div>
+        <h2 class="ms_title">{{ .Title }}</h2>
+        {{ with .Params.subtitle }}
+            <div class="ms_subtitle">{{ . | markdownify }}</div>
+            <hr>
+        {{ end }}
+        <div class="Artikel" id="content">
+            {{ .Content }}
+            <p><a href="{{ relURL "rascunhos/" }}">← Rascunhos</a></p>
+        </div>
+    </div>
+{{ end }}

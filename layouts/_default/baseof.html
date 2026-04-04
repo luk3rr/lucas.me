@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>{{ .Site.Title }}</title>
+
+        <meta property="og:site_name" content="{{ .Site.Title }}">
+        <meta property="og:title" content="{{ .Title }}">
+        <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="{{ .Description | default .Site.Params.description }}">
+        <link rel="canonical" href="{{ .Permalink }}">
+        <meta name="author" content="{{ .Site.Title }}">
+        <link rel="icon" type="image/png" href="{{ relURL "favicon.png" }}">
+        <meta property="og:image" content="https://avatars.githubusercontent.com/u/47197841"/>
+        <script src="https://kit.fontawesome.com/cab42dffd7.js" crossorigin="anonymous"></script>
+
+        <link rel="stylesheet" type="text/css" href="{{ relURL "css/1.min.css" }}">
+        <link rel="stylesheet" type="text/css" href="{{ relURL "css/style.css" }}">
+    </head>
+    <body>
+        <header id="ms_navbar">
+            <img
+                src="https://avatars3.githubusercontent.com/u/47197841"
+                width="100"
+                height="100"
+                alt="Foto de perfil"
+                title="Foto de perfil">
+            <div>
+                <h1>Lucas Araújo</h1>
+                <nav id="ms_desktopnav" aria-label="Navegação principal">
+                    <ul>
+                        <li><a href="{{ .Site.BaseURL }}"{{ if .IsHome }} class="active"{{ end }}>Sobre</a></li>
+                        <li><a href="{{ relURL "cv/CV-Lucas_de_Oliveira_Araujo.pdf" }}" target="_blank">CV pt_BR</a></li>
+                        <li><a href="{{ relURL "cv/CV-Lucas_de_Oliveira_Araujo_en-US.pdf" }}" target="_blank">CV en_US</a></li>
+                        <li><a href="{{ relURL "rascunhos/" }}"{{ if eq .Section "rascunhos" }} class="active"{{ end }}>Rascunhos</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div id="ms_burger_open">
+                <label for="ms_burger"><svg viewBox="0 0 100 80" width="24" height="24">
+                    <rect width="100" height="17" rx="8" fill="white"></rect>
+                    <rect y="30" width="100" height="17" rx="8" fill="white"></rect>
+                    <rect y="60" width="100" height="17" rx="8" fill="white"></rect>
+                </svg></label>
+            </div>
+
+            <input type="checkbox" id="ms_burger">
+
+            <nav id="ms_navdrawer" aria-label="Menu lateral">
+                <div id="ms_navdrawer_top">
+                    <div id="ms_navdrawer_search">
+                        <a href="{{ .Site.BaseURL }}">
+                            <img
+                                src="https://avatars3.githubusercontent.com/u/47197841"
+                                width="100"
+                                height="100"
+                                alt="Foto de perfil"
+                                title="Foto de perfil">
+                            <h1>Lucas Araújo</h1>
+                        </a>
+                    </div>
+                    <div id="ms_burger_close">
+                        <label for="ms_burger"><svg viewBox="0 0 110 110" width="24" height="24">
+                            <line x1="10" y1="10" x2="100" y2="100" stroke="#047bc2" stroke-width="20" />
+                            <line x1="100" y1="10" x2="10" y2="100" stroke="#047bc2" stroke-width="20" />
+                        </svg></label>
+                    </div>
+                </div>
+
+                <div id="ms_navdrawer_content">
+                    <ul>
+                        <li><a href="{{ .Site.BaseURL }}"{{ if .IsHome }} class="active"{{ end }}>Sobre</a></li>
+                        <li><a href="{{ relURL "cv/CV-Lucas_de_Oliveira_Araujo.pdf" }}" target="_blank">CV pt_BR</a></li>
+                        <li><a href="{{ relURL "cv/CV-Lucas_de_Oliveira_Araujo_en-US.pdf" }}" target="_blank">CV en_US</a></li>
+                        <li><a href="{{ relURL "rascunhos/" }}"{{ if eq .Section "rascunhos" }} class="active"{{ end }}>Rascunhos</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+        <main>
+            {{ block "main" . }}{{ end }}
+        </main>
+
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+                const today = new Date();
+                const birthday = new Date("2001/02/08");
+                const year = today.getFullYear();
+                const myAge = Math.floor(Math.abs(today - birthday) / 1000 / 60 / 60 / 24 / 365);
+                const ageEl = document.getElementById("age");
+                if (ageEl) ageEl.innerHTML = myAge;
+                document.getElementById("currentYear").innerHTML = year;
+            });
+        </script>
+    </body>
+</html>

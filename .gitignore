@@ -1,1 +1,9 @@
+# IDE
 .idea
+
+# Hugo output
+public/
+
+# Hugo cache
+.hugo_build.lock
+resources/

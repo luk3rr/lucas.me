@@ -1,0 +1,42 @@
+---
+title: "As 100 melhores coisas do mundo (em construção)"
+weight: 1
+subtitle: "Inspirado em [As 100 melhores coisas do mundo, por Prof. Fernando](https://homepages.dcc.ufmg.br/~fernando/classes/dcc024/ementa/pofs/100coisas.html)."
+---
+
+- Tomar banho
+- Dormir
+- Cheiro de café novo
+- Cheiro de livro novo
+- Cheiro de terra molhada
+- Fazer trilha com amigos
+- Abraço
+- Almoço de família na casa da tia Sebastiana
+- Pôr do sol
+- Deitar na grama e olhar as nuvens
+- Ouvir uma boa música
+- Ficar empolgado com a leitura de um livro
+- Ser recebido com empolgação pela Leona (minha dog) quando chego em casa
+- Comida da minha mãe
+- Nadar no rio
+- Andar de bicicleta
+- Sentir uma brisa fresca no rosto
+- Computação
+- UFMG
+- Olhar as estrelas
+- História da ciência
+- Ensinar
+- Aprender algo novo
+- Conhecer pessoas legais
+- Sentir que sou amado
+- Pensar sobre o meu passado e sentir que estou me tornando uma pessoa melhor
+- Poesia
+- Sorrisos
+- Gentileza
+- Guerra de bolão de água
+- Artes clássicas
+- Queijo da roça com doce de leite
+- Prosa com a vovó Eva
+- Paz
+- Pão de queijo
+- Soltar pipa
