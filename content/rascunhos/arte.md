@@ -7,7 +7,7 @@ weight: 5
 {{< figure src="img/bob-ross-paint.gif" width="300" >}}
 
 #### O Pensador, Auguste Rodin
-#### Rapariga com o brinco de pérola, Johannes Vermeer
+#### Moça com o brinco de pérola, Johannes Vermeer
 #### Davi, Michelangelo
 #### Self Made man, Bobbie Carlyle
 #### O Rapto de Proserpina, Gian Lorenzo Bernini

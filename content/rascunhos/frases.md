@@ -3,25 +3,21 @@ title: "Minhas frases favoritas"
 weight: 6
 ---
 
-## Arte
+> Você é o único representante de seu sonho na face da terra.
+>
+> — Prova azul, ENEM 2020
 
 > A arte é a contemplação: é o prazer do espírito que penetra a natureza e descobre que ela também tem uma alma. É a missão mais sublime do homem, pois é o exercício do pensamento que busca compreender o universo, e fazer com que os outros o compreendam.
 >
 > — Auguste Rodin
 
-## Crianças
-
 > Crianças são como pessoas cegas procurando uma parede. Precisam ir adiante e testar para ver onde, de fato, estão os limites (e eles raramente estão onde alguém disse que estariam).
 >
 > — Jordan Peterson, 12 regras para a vida
 
-## Dinheiro
-
 > Não empresta e nem peça emprestado: Quem empresta perde o amigo e o dinheiro; Quem pede emprestado já perdeu o controle de sua economia.
 >
 > — William Shakespeare
-
-## Educação
 
 > O autodidatismo é, acredito firmemente, o único tipo de educação que existe.
 >
@@ -39,13 +35,9 @@ weight: 6
 >
 > — William Faulkner
 
-## Felicidade
-
 > A felicidade é como um gato: se tentar persuadi-lo a vir até você, ele o evitará; nunca virá. Mas se não prestar atenção nele e se ocupar da sua vida, encontra-lo-á a se esfregar em suas pernas e a pular em seu colo.
 >
 > — William Bennett
-
-## Guerra
 
 > Existe alguém que está contando com você, pra lutar em seu lugar já que nessa guerra, não é ele quem vai morrer.
 >
@@ -55,8 +47,6 @@ weight: 6
 >
 > — Erich Hartman
 
-## Humildade
-
 > Muitos teriam chegado à sabedoria se não acreditassem que já eram suficientemente sábios.
 >
 > — Juan Luiz Vives
@@ -65,13 +55,9 @@ weight: 6
 >
 > — Albert Schweitzer
 
-## Justiça
-
 > Dizem que quem quer segue o caminho certo. Ele se espelha em quem tá mais perto.
 >
 > — Racionais MC's, Mágico de Oz
-
-## Literatura
 
 > Um livro é a prova de que os homens são capazes de fazer magia.
 >
@@ -89,15 +75,9 @@ weight: 6
 >
 > — John Keating, Sociedade dos Poetas Mortos
 
-> Pior que uma leitura tediosa é o tempo perdido nela.
->
-> — Lucas Araújo
-
 > Não consigo lembrar dos livros que li ou das refeições que comi, mesmo assim, eles me fizeram a pessoa que sou.
 >
 > — Ralph Waldo Emerson
-
-## Motivação
 
 > É difícil encontrar a felicidade dentro de si mesmo, mas é impossível encontrá-la em outro lugar.
 >
@@ -147,21 +127,13 @@ weight: 6
 >
 > — Mais esperto que o diabo
 
-> Você é o único representante de seu sonho na face da terra.
->
-> — Prova azul, ENEM 2020
-
 > A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.
 >
 > — Sir Winston Churchill
 
-## Natureza
-
 > Produzimos descartáveis feitos de material durável e indestrutível.
 >
 > — A plastic ocean
-
-## Religião
 
 > Eu me divirto com a estratégia, quando me perguntam se sou ateu, de lembrar que o autor da pergunta também é ateu no que diz respeito a Zeus, Apolo, Amon Ra, Mithra, Baal, Thor, Wotan, o Bezerro de Ouro e o Monstro de Espaguete Voador. Eu só fui um deus além.
 >
@@ -183,19 +155,13 @@ weight: 6
 >
 > — Carl Sagan
 
-## Sonhos
-
 > Cada sonho que você deixa para trás é uma parte do seu futuro que não existirá mais.
 >
 > — Steve Jobs
 
-## Tempo
-
 > Quando cê tem todo o tempo do mundo seu tempo não vale nada.
 >
 > — Felipe Guisoli
-
-## Vida
 
 > O mistério da vida não é um problema a ser resolvido, mas uma realidade a experimentar.
 > Um processo que não pode ser entendido interrompendo-o.
@@ -224,8 +190,6 @@ weight: 6
 > Life is what happens while you are making others plans.
 >
 > — John Lennon
-
-## Etc
 
 > Se a vida é uma noite escura, você é minha lua cheia.
 >

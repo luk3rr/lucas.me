@@ -22,7 +22,7 @@ weight: 4
 #### Cosmos, Carl Sagan
 #### O mundo assombrado pelos demônios, Carl Sagan
 #### José, Carlos Drummond de Andrade
-#### Elementos da matemática #### vol. 0, Marcelo Rufino de Oliveira
+#### Elementos da matemática - vol. 0, Marcelo Rufino de Oliveira
 #### Fundamentos de matemática elementar - vol. 1 - conjuntos e funções, Gelson Iezzi & Carlos Murakami
 #### Fundamentos de matemática elementar - vol. 3 - trigonometria, Gelson Iezzi
 #### Fundamentos de matemática elementar - vol. 9 - geometria plana, Osvaldo Dolce & José Nicolau Pompeo

@@ -6,192 +6,236 @@ weight: 2
 
 {{< figure src="img/brksedu-music.gif" width="200" >}}
 
-#### What's Going On, Marvin Gaye 
+#### Savage Mode II, 21 Savage & Metro Boomin
 
-#### Automatic For The People, R.E.M
+#### Back in Black, AC/DC
 
-#### The Bends, Radiohead
-
-#### The Queen Is Dead, The Smiths
-
-#### ...But Seriously, Phil Collins
-
-#### Clube da Esquina, Milton Nascimento & Lô Borges
-
-#### By the Way, Red Hot Chili Peppers
-
-#### Californication, Red Hot Chili Peppers
-
-#### The Will to Death, John Frusciante
-
-#### Empyrean, John Frusciante
-
-#### Roots, Sepultura
-
-#### A Thousand Suns, Linkin Park
+#### Highway to Hell, AC/DC
 
 #### Livin' for you, Al Green
 
-#### Desintegration, The Cure
+#### Facelift, Alice In Chains
 
-#### From the Lions Mouth, The Sound
+#### Jar of Flies, Alice In Chains
 
-#### Pablo Honey, Radiohead
+#### MTV Unplugged, Alice in Chains
+
+#### Frank, Amy Winehouse
+
+#### Audioslave, Audioslave
+
+#### Hail to the King, Avenged Sevenfold
+
+#### Nightmare, Avenged Sevenfold
+
+#### Alucinação, Belchior
+
+#### Rebel Yell, Billy Idol
+
+#### The E.N.D, Black Eyed Peas
 
 #### Blind Melon, Blind Melon
 
-#### Animals, Pink Floyd
+#### Exodus, Bob Marley & The Wailers
+
+#### Legend, Bob Marley & The Wailers
+
+#### Slippery When Wet, Bon Jovi
+
+#### That's the Spirit, Bring Me The Horizon
+
+#### Scream Aim Fire, Bullet for My Valentine
+
+#### Minecraft - Volume Alpha, C418
+
+#### Mother, Cleo Sol
+
+#### Parachutes, Coldplay
+
+#### My Own Prison, Creed
+
+#### Discovery, Daft Punk
+
+#### Random Access Memories, Daft Punk
+
+#### David Gilmour, David Gilmour
+
+#### Around the Fur, Deftones
+
+#### The Singles 86-98, Depeche Mode
+
+#### Lilás, Djavan
+
+#### Ella and Louis, Ella Fitzgerald & Louis Armstrong
+
+#### Acústico MTV, Engenheiros do Hawaii
+
+#### Trilogy, Emerson, Lake & Palmer
+
+#### At Last!, Etta James
+
+#### Fallen, Evanescence
 
 #### Between Days, Far Caspian
 
 #### The Heights, Far Caspian
 
-#### Songs From the Big Chair, Tears for Fears
-
-#### Otis Blue, Otis Redding
-
-#### Rebel Yell, Billy Idol
-
-#### United, Marvin Gaye & Tammi Terrell
-
-#### The Singles 86-98, Depeche Mode
-
-#### Acabou Chorare, Novos Baianos
-
-#### Parachutes, Coldplay
-
 #### Rumours, Fleetwood Mac
 
-#### Among My Swan, Mazzy Star
+#### Sunburn, Fuel
 
-#### Nightmare, Avenged Sevenfold
+#### Hot Buttered Soul, Isaac Hayes
 
-#### Hail to the King, Avenged Sevenfold
+#### Are You Experienced, Jimi Hendrix
 
-#### Wish You Were Here, Pink Floyd
+#### Empyrean, John Frusciante
 
-#### Collision Course, Linkin Park & Jay-Z
+#### The Will to Death, John Frusciante
 
-#### Highway to Hell, AC/DC
-
-#### Back in Black, AC/DC
-
-#### Metallica, Metallica
-
-#### ...And Justice for All, Metallica
-
-#### Ride the Lightning, Metallica
-
-#### Kill 'Em All, Metallica
-
-#### Load, Metallica
-
-#### Reload, Metallica
-
-#### Hardwired...To Self-Destruct, Metallica
+#### In the Court of the Crimson King, King Crimson
 
 #### The Serenity of Suffering, Korn
 
-#### Post Traumatic, Mike Shinoda
-
 #### Led Zeppelin IV, Led Zeppelin
 
-#### Frank, Amy Winehouse
+#### Acústico MTV, Legião Urbana
 
-#### Hypnotize, System of a Down
+#### A Thousand Suns, Linkin Park
 
-#### Cleopatra, The Lumineers
+#### Collision Course, Linkin Park & Jay-Z
 
-#### Ten, Pearl Jam
+#### From Zero, Linkin Park
 
-#### Sgt. Pepper's Lonely Hearts Club Band, The Beatles
+#### Hybrid Theory, Linkin Park
 
-#### Off the Wall, Michael Jackson
+#### Meteora, Linkin Park
 
-#### Thriller, Michael Jackson
+#### Reanimation, Linkin Park
 
-#### Random Access Memories, Daft Punk
-
-#### Discovery, Daft Punk
-
-#### Songs In The Key Of Life, Stevie Wonder
-
-#### Mother, Cleo Sol
-
-#### At Last!, Etta James
+#### Pronounced 'Lĕh-'nérd 'Skin-'nérd, Lynyrd Skynyrd
 
 #### Madonna, Madonna
 
 #### Mamonas Assassinas, Mamonas Assassinas
 
-#### Legend, Bob Marley & The Wailers
+#### What's Going On, Marvin Gaye
 
-#### Exodus, Bob Marley & The Wailers
+#### United, Marvin Gaye & Tammi Terrell
 
-#### Sobrevivendo no Inferno, Racionais MC's
+#### Among My Swan, Mazzy Star
 
-#### Nada como um dia após o outro dia, Racionais MC's
+#### ...And Justice for All, Metallica
+
+#### Hardwired...To Self-Destruct, Metallica
+
+#### Kill 'Em All, Metallica
+
+#### Load, Metallica
+
+#### Metallica, Metallica
+
+#### Reload, Metallica
+
+#### Ride the Lightning, Metallica
+
+#### Metro Boomin Presents Spider-man: Across the Spider-verse, Metro Boomin
+
+#### Heroes & Villains, Metro Boomin
+
+#### Off the Wall, Michael Jackson
+
+#### Thriller, Michael Jackson
+
+#### Post Traumatic, Mike Shinoda
+
+#### Clube da Esquina, Milton Nascimento & Lô Borges
+
+#### Acabou Chorare, Novos Baianos
+
+#### Otis Blue, Otis Redding
 
 #### MTV Unplugged, Pearl Jam
 
-#### Audioslave, Audioslave
+#### Ten, Pearl Jam
 
-#### That's the Spirit, Bring Me The Horizon
+#### Please, Pet Shop Boys
 
-#### The E.N.D, Black Eyed Peas
+#### ...But Seriously, Phil Collins
 
-#### Trench, Twenty One Pilots
+#### Animals, Pink Floyd
 
-#### Reanimation, Linkin Park
-
-#### Meteora, Linkin Park
-
-#### Hybrid Theory, Linkin Park
-
-#### Scream Aim Fire, Bullet for My Valentine
-
-#### My Own Prison, Creed
-
-#### Hot Buttered Soul, Isaac Hayes
-
-#### Promise, Sade
-
-#### Purple Rain, Prince
+#### A Momentary Lapse of Reason, Pink Floyd
 
 #### Dark Side of the Moon, Pink Floyd
 
 #### Meddle, Pink Floyd
 
-#### A Momentary Lapse of Reason, Pink Floyd
-
 #### The Division Bell, Pink Floyd
 
-#### Jar of Flies, Alice In Chains
+#### Wish You Were Here, Pink Floyd
 
-#### Fallen, Evanescence
+#### Purple Rain, Prince
 
-#### Slippery When Wet, Bon Jovi
+#### Automatic For The People, R.E.M
 
-#### Pronounced 'Lĕh-'nérd 'Skin-'nérd, Lynyrd Skynyrd
+#### OK Computer, Radiohead
+
+#### The Bends, Radiohead
+
+#### Pablo Honey, Radiohead
+
+#### Nada como um dia após o outro dia, Racionais MC's
+
+#### Sobrevivendo no Inferno, Racionais MC's
+
+#### By the Way, Red Hot Chili Peppers
+
+#### Californication, Red Hot Chili Peppers
+
+#### Promise, Sade
+
+#### Roots, Sepultura
+
+#### Músicas Para Churrasco - Vol. 1, Seu Jorge
+
+#### Once Upon A Time, Simple Minds
+
+#### Picture Book, Simply Red
 
 #### .5 The Gray Chapter, Slipknot
 
-#### Acústico MTV, Engenheiros do Hawaii
+#### Songs In The Key Of Life, Stevie Wonder
 
-#### Acústico MTV, Legião Urbana
+#### Hypnotize, System of a Down
 
-#### MTV Unplugged, Alice in Chains
+#### Temple of the Dog, Temple of the Dog
+
+#### Sgt. Pepper's Lonely Hearts Club Band, The Beatles
+
+#### Disintegration, The Cure
+
+#### Dr. Dre, The Chronic
+
+#### Cleopatra, The Lumineers
 
 #### Ready to Die, The Notorious B.I.G.
 
-#### David Gilmour, David Gilmour
+#### Siamese Dream, The Smashing Pumpkins
+
+#### The Queen Is Dead, The Smiths
+
+#### From the Lions Mouth, The Sound
+
+#### Urban Hymns, The Verve
+
+#### Songs From the Big Chair, Tears for Fears
+
+#### Rodeo, Travis Scott
+
+#### Birds in the Trap Sing McKnight, Travis Scott
+
+#### Trench, Twenty One Pilots
 
 #### II, Unknown Mortal Orchestra
 
-#### Siamese Dream, The Smashing Pumpkins
-
-#### Minecraft - Volume Alpha, C418
-
-#### Ella and Louis, Ella Fitzgerald & Louis Armstrong
-
-#### Músicas Para Churrasco - Vol. 1, Seu Jorge
+> Btw, eu realmente gosto de música :')

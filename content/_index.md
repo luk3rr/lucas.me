@@ -34,4 +34,4 @@ e Infraestrutura como Código (IaC) com Terraform e Ansible.
 Meu e-mail de contato é 
 [araujolucas@dcc.ufmg.br](mailto:araujolucas@dcc.ufmg.br) 
 e, se você for meio biruta, pode criptografar sua mensagem com a minha 
-[chave pública!](https://github.com/luk3rr/lucas.me/blob/main/pubkey/public-key_lucas.asc)
+[chave pública!](https://raw.githubusercontent.com/luk3rr/lucas.me/refs/heads/main/static/pubkey/public-key_lucas.asc)
