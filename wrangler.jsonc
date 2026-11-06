@@ -2,6 +2,8 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "lucas-me",
   "compatibility_date": "2026-11-06",
+  "workers_dev": false,
+  "preview_urls": false,
   "vars": {
     "HUGO_VERSION": "0.147.7"
   },
