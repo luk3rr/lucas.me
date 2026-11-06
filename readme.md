@@ -1,2 +1,2 @@
 # My page :v
-[see](https://homepages.dcc.ufmg.br/~araujolucas)
+[see](https://luk3rr.com)
