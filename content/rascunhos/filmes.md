@@ -27,6 +27,7 @@ há violência, sim, mas também há humanidade, sonho e escolha. O Buscapé é 
 
 {{< figure src="img/cidade-de-deus.jpg" width="250" >}}
 {{< /details >}}
+#### Círculo de Fogo
 #### Clube da Luta
 #### Deu a Louca na Chapeuzinho
 {{< details >}}
@@ -62,11 +63,13 @@ Esse aqui é daqueles típicos filmes que você não entende nada e no fim apena
 #### O Auto da Compadecida
 #### O Curioso Caso de Benjamin Button
 #### O Dia Depois de Amanhã
+#### O Homem Bicentenário
 #### O Lobo de Wall Street
 #### O Preço do Amanhã
 #### O Regresso
 #### O Resgate do Soldado Ryan
 #### O Senhor das Armas
+#### O Túmulo dos Vagalumes
 #### O Último Samurai
 #### Os Oito Odiados
 #### Onde os Fracos Não Têm Vez

@@ -152,6 +152,8 @@ weight: 2
 
 #### Acabou Chorare, Novos Baianos
 
+#### Definitely Maybe, Oasis
+
 #### Otis Blue, Otis Redding
 
 #### MTV Unplugged, Pearl Jam
